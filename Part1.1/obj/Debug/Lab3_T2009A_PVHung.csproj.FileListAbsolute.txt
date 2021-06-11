@@ -1,0 +1,2 @@
+C:\Users\Admin\RiderProjects\Lab3_T2009A_PVHung\Lab3_T2009A_PVHung\obj\Debug\Lab3_T2009A_PVHung.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab3_T2009A_PVHung\Lab3_T2009A_PVHung\obj\Debug\Lab3_T2009A_PVHung.csproj.CoreCompileInputs.cache
